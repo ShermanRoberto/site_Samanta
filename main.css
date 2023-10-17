@@ -4,10 +4,8 @@
   border: none;
   outline: none;
   box-sizing: border-box;
-  font-size: 100%;
-  max-width: 100%;
-  height: auto;
 }
+
 .logo {
   height: 450px;
   width: 450px;
@@ -16,6 +14,9 @@
   margin-top: 150px;
 }
 .container {
+  max-width: 1280px;
+  width: 100%;
+  margin: 0 auto;
   background-color: #910728;
   display: flex;
   align-items: flex-start;
@@ -24,12 +25,12 @@
 }
 .title {
   color: #fff;
-  font-size: 90px;
+  font-size: 45px;
   padding: 100px;
 }
 .title h1 {
   font-family: "Whisper", cursive;
-  font-size: 200px;
+  font-size: 100px;
 }
 .title button {
   margin-top: 50px;
@@ -59,17 +60,17 @@ main img {
   box-shadow: 0 0 30px #910728;
 }
 main p {
-  font-size: 75px;
+  font-size: 37px;
   padding: 35px;
 }
 .depoimento h2 {
-  font-size: 70px;
+  font-size: 35px;
   text-align: center;
   background-color: #fff1f0;
   color: #910728;
 }
 .depoimento p {
-  font-size: 60px;
+  font-size: 30px;
   background-color: #fff1f0;
   display: flex;
   justify-content: center;
@@ -77,7 +78,7 @@ main p {
   color: #910728;
 }
 .terapia p {
-  font-size: 70px;
+  font-size: 35px;
   text-align: center;
   background-color: #910728;
   color: #fff1f0;
@@ -92,7 +93,7 @@ main p {
   color: #fff1f0;
 }
 .conteudo ul {
-  font-size: 300%;
+  font-size: 150%;
   padding: 100px;
 }
 .conteudo img {
@@ -165,14 +166,14 @@ main p {
   height: 200px;
 }
 .url {
-  font-size: 50px;
+  font-size: 25px;
   display: inline-block;
   padding: 80px;
   color: #910728;
   text-decoration: none;
 }
 .discricao {
-  font-size: 70px;
+  font-size: 35px;
   text-align: center;
   max-width: 100%;
   height: auto;
@@ -193,6 +194,6 @@ footer {
   color: #910728;
 }
 .copy {
-  font-size: 30px;
+  font-size: 15px;
   margin-left: 20px;
 }
