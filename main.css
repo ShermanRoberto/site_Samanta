@@ -4,6 +4,9 @@
   border: none;
   outline: none;
   box-sizing: border-box;
+  max-width: 100%;
+  height: auto;
+  font-size: 100%;
 }
 
 .logo {
@@ -14,6 +17,9 @@
   margin-top: 50px;
 }
 .container {
+  max-width: 100%;
+  height: auto;
+  font-size: 100%;
   margin: 0 auto;
   background-color: #910728;
   display: flex;
@@ -91,7 +97,7 @@ main p {
   color: #fff1f0;
 }
 .conteudo ul {
-  font-size: 75%;
+  font-size: 100%;
   padding: 50px;
 }
 .conteudo img {
@@ -99,6 +105,7 @@ main p {
   height: 350px;
   border-radius: 50%;
   box-shadow: 0 0 15px #fff1f0;
+  margin-bottom: 50px;
 }
 .containner {
   display: flex;
