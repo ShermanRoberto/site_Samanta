@@ -175,8 +175,6 @@ main p {
 .discricao {
   font-size: 35px;
   text-align: center;
-  max-width: 100%;
-  height: auto;
 }
 .lateral {
   display: block;
