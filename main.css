@@ -4,9 +4,8 @@
   border: none;
   outline: none;
   box-sizing: border-box;
-  font-size: 100%;
-  max-width: 100%;
-  height: auto;
+  max-width: 1280px;
+  width: 100%;
 }
 .logo {
   height: 450px;
