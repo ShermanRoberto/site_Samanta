@@ -1,0 +1,198 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+  box-sizing: border-box;
+  font-size: 100%;
+  max-width: 100%;
+  height: auto;
+}
+.logo {
+  height: 450px;
+  width: 450px;
+  border-radius: 40%;
+  box-shadow: 0 0 50px #fff1f0;
+  margin-top: 150px;
+}
+.container {
+  background-color: #910728;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  text-align: center;
+}
+.title {
+  color: #fff;
+  font-size: 90px;
+  padding: 100px;
+}
+.title h1 {
+  font-family: "Whisper", cursive;
+  font-size: 200px;
+}
+.title button {
+  margin-top: 50px;
+  height: 100px;
+  width: 600px;
+  border-radius: 10rem;
+  box-shadow: 0 0 50px #fff1f0;
+  font-size: 3rem;
+  background-color: #fff1f0;
+}
+.container a {
+  text-decoration: none;
+  color: #910728;
+}
+main .about {
+  background-color: #fff1f0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 50px;
+  color: #910728;
+}
+main img {
+  width: 800px;
+  border-radius: 25%;
+  box-shadow: 0 0 30px #910728;
+}
+main p {
+  font-size: 75px;
+  padding: 35px;
+}
+.depoimento h2 {
+  font-size: 70px;
+  text-align: center;
+  background-color: #fff1f0;
+  color: #910728;
+}
+.depoimento p {
+  font-size: 60px;
+  background-color: #fff1f0;
+  display: flex;
+  justify-content: center;
+  text-align: justify;
+  color: #910728;
+}
+.terapia p {
+  font-size: 70px;
+  text-align: center;
+  background-color: #910728;
+  color: #fff1f0;
+}
+.conteudo {
+  padding: 10px;
+  background-color: #910728;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+  text-align: center;
+  color: #fff1f0;
+}
+.conteudo ul {
+  font-size: 300%;
+  padding: 100px;
+}
+.conteudo img {
+  width: 700px;
+  height: 700px;
+  border-radius: 50%;
+  box-shadow: 0 0 15px #fff1f0;
+}
+.containner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  height: 100vh;
+  color: #910728;
+  text-shadow: 0 0 15px #fff1f0;
+}
+.contato {
+  position: absolute;
+  top: 900px;
+  left: 425px;
+}
+.contato a {
+  text-decoration: none;
+  color: #910728;
+}
+.contato button {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  text-align: center;
+  margin-top: 10px;
+  padding: 25px;
+  height: 100px;
+  width: 400px;
+  border-radius: 10rem;
+  box-shadow: 0 0 50px #910728;
+  font-size: 2rem;
+}
+.flyer p {
+  font-size: 85px;
+  text-align: center;
+  position: absolute;
+  top: 720px;
+  left: 340px;
+}
+.broche {
+  width: 400px;
+  border-radius: 10rem;
+  box-shadow: 0 0 30px #910728;
+  position: absolute;
+  top: 150px;
+  left: 430px;
+}
+.frente {
+  filter: blur(10px);
+  border: 10px solid #910728;
+  width: 960px;
+  position: absolute;
+  top: 200px;
+  left: 150px;
+}
+.fundo {
+  width: 1100px;
+  position: relative;
+  margin-left: 100px;
+}
+.fig {
+  width: 200px;
+  height: 200px;
+}
+.url {
+  font-size: 50px;
+  display: inline-block;
+  padding: 80px;
+  color: #910728;
+  text-decoration: none;
+}
+.discricao {
+  font-size: 70px;
+  text-align: center;
+  max-width: 100%;
+  height: auto;
+}
+.lateral {
+  display: block;
+  align-items: flex-start;
+  justify-content: center;
+  text-align: center;
+  margin-top: 50px;
+  padding: 150px;
+}
+footer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+  background-color: #fff1f0;
+  color: #910728;
+}
+.copy {
+  font-size: 30px;
+  margin-left: 20px;
+}
