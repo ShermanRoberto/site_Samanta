@@ -101,7 +101,7 @@ main p {
   padding: 50px;
 }
 .conteudo img {
-  width: 30%;
+  width: 20%;
   /*height: 350px;*/
   border-radius: 50%;
   box-shadow: 0 0 15px #fff1f0;
@@ -156,18 +156,18 @@ main p {
 .frente {
   filter: blur(10px);
   border: 10px solid #910728;
-  width: 94%;
+  width: 88%;
   position: absolute;
   top: 90px;
   left: 115px;
 }
 .fundo {
-  width: 100%;
+  width: 95%;
   position: relative;
   margin-left: 100px;
 }
 .fig {
-  width: 100%;
+  width: 10%;
   /*height: 100px;*/
 }
 .url {
